@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to practice the HTML I've acquired throughout this course. It's going to be a basic recipe website, consisting of a main index page which will have links to a few recipes. Yes, it probably won't look pretty yet, but later on, CSS will be added.
